@@ -7,7 +7,6 @@ Author: Ranju and Prasna
 License: GPL2
 */
 // Enqueue Select2 for both front-end and admin
-// my name is Ranju this is test
 function cpm_investor_enqueue_scripts() {
     wp_enqueue_script('jquery');
     // Enqueue Select2 CSS
